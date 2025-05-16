@@ -1,8 +1,8 @@
-# saikurrahman63![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+# saikurrahman63![I am sadikur](https://github.com/sadikurrahman63//blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm SADIKUR RAHMAN)</h1>
+<h3 align="center">university student | Speed Learner</h3>
+
 
 <div align="center">
 
