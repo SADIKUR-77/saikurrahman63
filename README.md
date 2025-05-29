@@ -1,19 +1,17 @@
 
 ![I am SADIKUR-77](https://github.com/SADIKIR-77/SADIKUR-77/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Sadikur Rahman </h1>
-<h3 align="center">Programmer | Web Designer | | Speed Learner</h3>
-<h4 align="center"> & student of Hablu Programmer</h4>
+I'm student of dongshin University in South Korea|my major is information technology|
 
-<div align="center">
+<
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=SADIKUR -77&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
-</div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+
+- 🔭 I’m currently working on dongshin University 
 
 - 🌱 I’m currently learning Golang, Java, C++
 
@@ -23,11 +21,11 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **sadikur202213@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
-<h3 align="left">Connect with me:</h3>
+
 
 <p align="center">
 <a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
